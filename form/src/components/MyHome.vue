@@ -165,7 +165,7 @@ export default {
         errors.passport = 'Пожалуйста, введите корректную серию и номер паспорта';
       }
       if(!this.ByWhom){
-        errors.ByWhom = 'Кем выдан бл@'
+        errors.ByWhom = 'Кем выдан'
       }
       if(!this.DateOfIssue){
         errors.DateOfIssue = 'Введите страну'
